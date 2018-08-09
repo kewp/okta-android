@@ -41,7 +41,7 @@
             <Button
                 android:id="@+id/auth_button"
                 style="@style/Widget.AppCompat.Button.Colored"
-                android:text="Authorize"
+                android:text="Login"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
